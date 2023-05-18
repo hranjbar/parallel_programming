@@ -1,8 +1,6 @@
 # parallel_programming
 Contains implementation of computation sinppets using OpenMP, multi-threading, and AVX
 
-
-# cpp_in_depth
 # 💫 About Me:
 I'm currently working on Advanced C++ features, Data Structures & Algorithms,<br>Python Programming, TensorFlow, GPC, and System Architecture Design
 
